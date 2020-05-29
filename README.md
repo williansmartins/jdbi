@@ -1,2 +1,3 @@
-# jdbi
-Uma POC para testar o JDBI para um cliente
+### Relevant Articles:
+
+- [A Guide to Jdbi](http://www.baeldung.com/jdbi)
